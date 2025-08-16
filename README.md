@@ -1,0 +1,2 @@
+# VibeChat
+A chat application.
